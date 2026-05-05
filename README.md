@@ -37,7 +37,3 @@ AI/ML        LLM Agent Architecture · Prompt Engineering · Multi-user Systems
 Infra        Linux · SQLite (FTS5) · systemd · Cloudflare
 Tools        Git · GitHub Actions · Vercel
 ```
-
-## Stats
-
-![Cyrene963's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyrene963&show_icons=true&theme=radical&hide=stars)
