@@ -31,15 +31,15 @@ Also merged community PRs for: inference model empty response detection, FTS5 hy
 
 ## Tech Stack
 
-```
-Languages    Python · Shell · JavaScript
-AI/ML        LLM Agent Architecture · Prompt Engineering · Multi-user Systems
-Infra        Linux · SQLite (FTS5) · systemd · Cloudflare
-Tools        Git · GitHub Actions · Vercel
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyrene963&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/top-langs/?username=Cyrene963&layout=compact&theme=tokyonight&hide_border=true)
+![Commits](https://img.shields.io/github/commit-activity/m/Cyrene963/hermes-patches?style=flat-square&label=hermes-patches%20commits)
+![Stars](https://img.shields.io/github/stars/Cyrene963/hermes-patches?style=flat-square)
+![PRs](https://img.shields.io/github/issues-pr/Cyrene963/hermes-patches?style=flat-square&label=open%20PRs)
